@@ -1,0 +1,20 @@
+
+Pattern searching
+    Aho-Corasick
+
+Hamiltonian Path
+Tarjan's DFS
+Dijkstra
+FloydWarshall / Transitive Closure
+Solving sudokus?
+Implementing heaps and different types
+
+Create Graph class? would b fun
+
+
+Walrus operator: 
+    Assign an intermediate value that is then used in the expression part of the comprehension. 
+    [x.title() for name in names if (x := normalize_name(name)) in allowed_names]
+
+
+Topics: Trees -> Graphs -> Recursion -> Sorting -> Dynamic Programming

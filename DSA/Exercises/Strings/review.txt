@@ -1,0 +1,25 @@
+
+
+
+
+Reverse a string (2 pointers): https://www.geeksforgeeks.org/dsa/reverse-a-string/
+
+Combinations:
+    * Generate all binary strings from given pattern: https://www.geeksforgeeks.org/dsa/generate-all-binary-strings-from-given-pattern/
+    * Print all possible strings that can be made by placing spaces: https://www.geeksforgeeks.org/dsa/print-possible-strings-can-made-placing-spaces/
+
+
+
+Pattern Searching algorithms
+    KMP Algorithm
+    Rabin-Karp Algorithm
+    Aho-Corasick Algorithm
+
+
+Regex - learn basic
+
+Key terms
+    Counter freq array, hash map
+    Recursion, Iterative
+    Queue, stack, 
+    Using orders: ord(char) - ord('a')

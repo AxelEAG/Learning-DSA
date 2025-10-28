@@ -1,0 +1,9 @@
+In graphs, a vertex’s degree tells you how many edges touch it.
+    Undirected graphs: degree is the number of incident edges.
+    Directed graphs: 
+        in-degree: number of incoming edges
+        out-degree: number of outgoing edges
+
+Strongly Connected Components (SCCs) are a fundamental concept in graph theory and algorithms. 
+In a directed graph, a Strongly Connected Component is a subset of vertices where every vertex in 
+the subset is reachable from every other vertex in the same subset by traversing the directed edges.
